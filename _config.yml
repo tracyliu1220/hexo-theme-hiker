@@ -46,8 +46,7 @@ about_big_image:
 
 
 # Archive pagination
-archive_pagination: true
-
+archive_pagination: false
 
 # Post Article's Content
 post_catalog:
@@ -64,8 +63,8 @@ fancybox: true
 sidebar: right
 widgets:
 - social
-- category
-- tag
+  # - category
+  # - tag
 - tagcloud
 - archive
 - recent_posts
